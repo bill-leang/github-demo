@@ -7,3 +7,7 @@ Add a second line.
 **Some description**
 
 # Project Objectives
+Build as simple guide
+
+# Resources
+data not available.
